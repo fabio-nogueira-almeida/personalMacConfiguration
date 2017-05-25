@@ -41,3 +41,5 @@ My personals Mac Configurations
 - Grammarly https://www.grammarly.com/
 
 ## iTerm Plugins 
+- oh my zsh https://github.com/robbyrussell/oh-my-zsh
+- Theme agnoster https://github.com/agnoster/agnoster-zsh-theme (https://github.com/powerline/fonts, https://github.com/robbyrussell/oh-my-zsh/wiki/themes)
