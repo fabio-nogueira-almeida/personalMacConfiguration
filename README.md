@@ -35,3 +35,9 @@ My personals Mac Configurations
 ## Atom Plugins 
 - pretty-json
 - vim-mode
+
+## Safari Plugins 
+- 1password
+- Grammarly https://www.grammarly.com/
+
+## iTerm Plugins 
