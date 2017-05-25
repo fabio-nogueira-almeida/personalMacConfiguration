@@ -1,5 +1,3 @@
-# personalMacConfiguration
-
 My personals Mac Configurations
 
 ## Softwares
