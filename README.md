@@ -1,0 +1,2 @@
+# personalMacConfiguration
+Mac Configurations
