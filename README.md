@@ -1,38 +1,37 @@
 My personals Mac Configurations
 
 ## Softwares
-Android file transfer
-Tomato one
-Tweet deck
-Vlc
-Wunderlist
-Spotify
-Moon
-1password
-Caffeine
-Deckset
-Franz
-Chrome
+- Android file transfer
+- Tomato one
+- Tweet deck
+- Vlc
+- Wunderlist
+- Spotify
+- Moon
+- 1password
+- Caffeine
+- Deckset
+- Franz
+- Chrome
 
 ### Dev
-Xcode
-iTerm
-Postman
-source tree
-Sketch
-Atom
-dash
+- Xcode
+- iTerm
+- Postman
+- Source tree
+- Sketch
+- Atom
+- Dash
 
 ## Utils
-homebrew
-rbenv
+- homebrew
+- rbenv
 
 
 ## Xcode Plugins 
-x-vim
-Theme https://github.com/fabiotk/AVTaintedPaintCustom
+- x-vim
+- Theme https://github.com/fabiotk/AVTaintedPaintCustom
 
 ## Atom Plugins 
-pretty-json
-vim-mode
-
+- pretty-json
+- vim-mode
