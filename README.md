@@ -13,6 +13,7 @@ My personals Mac Configurations
 - Deckset
 - Franz
 - Chrome
+- SwitchResX (Monitor externo para ficar com retina)
 
 ### Dev
 - Xcode
