@@ -14,6 +14,7 @@ My personals Mac Configurations
 - Franz
 - Chrome
 - SwitchResX (Monitor externo para ficar com retina)
+- Caffeine
 
 ### Dev
 - Xcode
