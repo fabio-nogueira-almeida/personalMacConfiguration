@@ -15,6 +15,7 @@ My personals Mac Configurations
 - Chrome
 - SwitchResX (Monitor externo para ficar com retina)
 - Caffeine
+- Grammarly
 
 ### Dev
 - Xcode
