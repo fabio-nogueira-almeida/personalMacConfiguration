@@ -16,6 +16,7 @@ My personals Mac Configurations
 - SwitchResX (Monitor externo para ficar com retina)
 - Caffeine
 - Grammarly
+- Dropbox (1password)
 
 ### Dev
 - Xcode
