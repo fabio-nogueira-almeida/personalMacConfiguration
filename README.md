@@ -22,7 +22,7 @@ My personals Mac Configurations
 - Xcode
 - iTerm
 - Postman
-- Source tree
+- Source tree / GitKraken
 - Sketch
 - Atom
 - Dash
