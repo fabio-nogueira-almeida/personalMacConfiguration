@@ -23,7 +23,7 @@ My personals Mac Configurations
 - iTerm
 - Postman
 - Source tree / GitKraken
-- Sketch
+- Sketch / Gravity
 - Atom
 - Dash
 
