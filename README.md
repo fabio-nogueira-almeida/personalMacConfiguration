@@ -35,6 +35,8 @@ My personals Mac Configurations
 ## Xcode Plugins 
 - x-vim
 - Theme https://github.com/fabiotk/AVTaintedPaintCustom
+- Objective C Clean Lint http://objclean.com/index.php
+- Swift Clean Lint http://www.swiftcleanapp.com
 
 ## Atom Plugins 
 - pretty-json
